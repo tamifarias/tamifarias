@@ -15,8 +15,8 @@
 <body>
   <div>
     <a href="https://github.com/tamifarias">
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=tamifarias&show_icons=true&theme=cobalt">
-    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamifarias&theme=cobalt">
+    <img height=160em src="https://github-readme-stats.vercel.app/api?username=tamifarias&show_icons=true&theme=cobalt">
+    <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamifarias&theme=cobalt">
   </div>
   <div>
  
